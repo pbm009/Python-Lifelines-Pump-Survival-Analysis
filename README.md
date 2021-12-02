@@ -1,8 +1,8 @@
 # Python-Lifelines-Survival-Analysis
-Survival Analysis using lifelines library. Used NASA turbofan dataset to predict pump failure.
+Survival Analysis using KaplanMeierFitter from lifelines library. Used NASA turbofan dataset.
 
 
-Some background information...
+Some background...
 
 
 This is a group project that myself and two others worked on for a BANA class at SHSU.
