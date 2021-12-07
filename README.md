@@ -1,4 +1,4 @@
-# Python-Lifelines-Survival-Analysis
+# Python-Lifelines-Pump-Survival-Analysis
 Survival Analysis using KaplanMeierFitter from lifelines library. Used NASA turbofan dataset.
 
 
